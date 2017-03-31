@@ -1,6 +1,12 @@
 # muskabot
 ムスカBotのソースコードを公開します。
 
+ムスカBotについては以下を参照してください。
+
+* [制作者が解説する@muskabot(Twitterからのリンク用)](http://abyssluke.hatenadiary.com/entry/20090420/1240181359)
+* [制作者が解説する@muskabot(基本編)](http://abyssluke.hatenadiary.com/entry/20090419/1240128522)
+* [制作者が解説する@muskabot(Reply反応文字列編)](http://abyssluke.hatenadiary.com/entry/20090421/1240273283)
+
 以下に記載されているライブラリ類以外のライセンスはMIT Licenseとします(twitterOAuthがMITなので合わせたとか言えない…)。
 
 公開するとマズイ箇所(OAuthのトークンやシークレットなど)があるため実際に稼働していた時のものとは若干異なります。当該部分の削除などのみ行っているため、各種コメント部分、スクリプト作成時に生じた英語のスペルミスなどもそのままです。予めご了承ください。
