@@ -46,6 +46,12 @@
 * blank.gif
     * ダミー画像。擬似cronで動作する時はこのファイルの内容を返していた。
 
+### おまけ
+* launchex2.php
+    * Wassr版ムスカbotのソースコード。
+* launchex2d.php
+    * twitterがよく落ちていた時代、twitterからmuskabotのタイムラインが取得できない場合にtwitterのダウンとみなしてその旨をWassrのmuskabotとtwitterチャンネルに投稿するbot。
+
 ### ライブラリ類
 以下のライブラリ類の作者・出典についてはAUTHOR.md参照。
 
