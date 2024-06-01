@@ -3,11 +3,7 @@
 ## muskabot (MIT License) (This program)
 > Copyright (c) 2017 @abyssluke 
 
-For more information about bot, see below(blog)
-
-* [制作者が解説する@muskabot(Twitterからのリンク用)](http://abyssluke.hatenadiary.com/entry/20090420/1240181359)
-* [制作者が解説する@muskabot(基本編)](http://abyssluke.hatenadiary.com/entry/20090419/1240128522)
-* [制作者が解説する@muskabot(Reply反応文字列編)](http://abyssluke.hatenadiary.com/entry/20090421/1240273283)
+For more information about bot, see [かつてあったムスカbotについて](https://scrapbox.io/abyssluke/%E3%81%8B%E3%81%A4%E3%81%A6%E3%81%82%E3%81%A3%E3%81%9F%E3%83%A0%E3%82%B9%E3%82%ABbot%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6).
 
 ## twitterOAuth (MIT License)
 > Copyright (c) 2009 Abraham Williams - http://abrah.am - abraham@abrah.am
